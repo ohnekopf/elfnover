@@ -30,6 +30,7 @@ dynamic libraries if they cant be found when you try to run the program,
 this happens sometimes, for example with older libpthread in glibc.
 
 for example:
+
 	$ ./elfnover foo
 	$ ./foo_nover
 
